@@ -1,6 +1,35 @@
 # Dynamic Question Assignment
 
-### Strategy and Design Overview:
+### Environment setup:
+node v20.10.0
+
+### Usage step:
+1. Git clone project.
+
+2. Open project folder  in terminal.
+
+3. Then run `node index.js` in the terminal.
+
+You change your parameters with flexibility \
+Default configuration:
+```
+    durationByDays = '5 days',
+    rotationDay = 'monday',
+    rotationTimeInPmOrAm = '7pm'
+```
+NOTE: You set you own time like `3:45pm` or `04:10am` or `2pm`, and you can also put your own like `10 days` or `10days`
+Use can use custom config like below and comment in the codebase at `index.js`
+```
+ //customize 
+ const assigner = new DynamicQuestionAssigner({
+   durationByDays: '7 days',
+   rotationDay: 'Sunday',
+   rotationTimeInPmOrAm: '04:30pm' //or 4:30pm, 4pm
+ });
+```
+
+
+## Strategy and Design Overview:
 
 1. **Rotation Timing and Question Expiration Control (Timer Class)**
    - `Timer` serves as the foundation by managing the rotation day and time, enabling a regional question assignment schedule based on time intervals.

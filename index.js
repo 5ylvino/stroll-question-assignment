@@ -95,7 +95,7 @@ class DynamicQuestionAssigner extends Timer {
 // const assigner = new DynamicQuestionAssigner({
 //   durationByDays: '7 days',
 //   rotationDay: 'Sunday',
-//   rotationTimeInPmOrAm: '10pm'
+//   rotationTimeInPmOrAm: '04:30pm'
 // });//customize
 const assigner = new DynamicQuestionAssigner({}); //default
 console.log(
