@@ -23,7 +23,7 @@ Use example of custom config like below and is available and commented in the co
  //customize 
  const assigner = new DynamicQuestionAssigner({
    durationByDays: '7 days',//or '7days'
-   rotationDay: 'Sunday',
+   rotationDay: 'Sunday', // or 'sunday'
    rotationTimeInPmOrAm: '04:30pm' //or 4:30pm, 4pm
  });
 ```
