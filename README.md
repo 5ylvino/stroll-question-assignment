@@ -10,7 +10,7 @@ node v20.10.0
 
 3. Then run `node index.js` in the terminal.
 
-You change your parameters with flexibility \
+You can change your parameters with flexibility \
 Default configuration:
 ```
     durationByDays = '5 days',
