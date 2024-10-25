@@ -17,8 +17,8 @@ Default configuration:
     rotationDay = 'monday',
     rotationTimeInPmOrAm = '7pm'
 ```
-NOTE: You set you own time like `3:45pm` or `04:10am` or `2pm`, and you can also put your own like `10 days` or `10days`
-Use can use custom config like below and comment in the codebase at `index.js`
+NOTE: You can set you own time like `3:45pm` or `04:10am` or `2pm`, and you can also put your own no. of days before rotation like `10 days` or `10days`
+Use example of custom config like below and is available and commented in the codebase at `index.js`
 ```
  //customize 
  const assigner = new DynamicQuestionAssigner({
