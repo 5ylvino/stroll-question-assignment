@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "question": "What are the major rivers in Northern Africa?",
+      "region": "Africa"
+    },
+    {
+      "question": "Which country in Western Africa has the largest population?",
+      "region": "Africa"
+    },
+    {
+      "question": "What is the primary language spoken in Eastern Africa?",
+      "region": "Africa"
+    },
+    {
+      "question": "Which desert is found in Southern Africa?",
+      "region": "Africa"
+    },
+    {
+      "question": "What is the capital city of Nigeria?",
+      "region": "Africa"
+    },
+    {
+      "question": "Which East Asian country has the largest economy?",
+      "region": "Asia"
+    },
+    {
+      "question": "What is the traditional food in Southeast Asia?",
+      "region": "Asia"
+    },
+    {
+      "question": "What are the major religions in South Asia?",
+      "region": "Asia"
+    },
+    {
+      "question": "Which countries are part of Central Asia?",
+      "region": "Asia"
+    },
+    {
+      "question": "Which city is a cultural hub in Western Asia?",
+      "region": "Asia"
+    },
+    {
+      "question": "What are the main exports of Germany in Western Europe?",
+      "region": "Europe"
+    },
+    {
+      "question": "What is the most popular tourist destination in Southern Europe?",
+      "region": "Europe"
+    },
+    {
+      "question": "Which countries form the Nordic region in Northern Europe?",
+      "region": "Europe"
+    },
+    {
+      "question": "What historical event led to the division of Eastern Europe after WWII?",
+      "region": "Europe"
+    },
+    {
+      "question": "Which Central European country is known for its medieval architecture?",
+      "region": "Europe"
+    },
+    {
+      "question": "Which North American country is famous for maple syrup?",
+      "region": "North America"
+    },
+    {
+      "question": "What is the capital city of Mexico?",
+      "region": "North America"
+    },
+    {
+      "question": "What is the largest island in the Caribbean?",
+      "region": "North America"
+    },
+    {
+      "question": "Which U.S. state is closest to Canada?",
+      "region": "North America"
+    },
+    {
+      "question": "Which Central American country has no standing army?",
+      "region": "North America"
+    },
+    {
+      "question": "Which mountain range runs along the western coast of South America?",
+      "region": "South America"
+    },
+    {
+      "question": "What is the official language of Brazil?",
+      "region": "South America"
+    },
+    {
+      "question": "Which country is famous for tango dancing in the Southern Cone?",
+      "region": "South America"
+    },
+    {
+      "question": "What are the natural resources of Venezuela?",
+      "region": "South America"
+    },
+    {
+      "question": "Which South American country has the largest Amazon rainforest area?",
+      "region": "South America"
+    },
+    {
+      "question": "What is the largest city in Australia?",
+      "region": "Oceania"
+    },
+    {
+      "question": "Which island nation in Oceania is known for its pristine coral reefs?",
+      "region": "Oceania"
+    },
+    {
+      "question": "What is the national sport of New Zealand?",
+      "region": "Oceania"
+    },
+    {
+      "question": "Which country in Oceania is the smallest by population?",
+      "region": "Oceania"
+    },
+    {
+      "question": "What is the significance of the Great Barrier Reef in Australia?",
+      "region": "Oceania"
+    },
+    {
+      "question": "What are the main agricultural products of Northern Africa?",
+      "region": "Africa"
+    },
+    {
+      "question": "Which country in Eastern Africa is known for its wildlife safaris?",
+      "region": "Africa"
+    },
+    {
+      "question": "What is the currency used in Southern Africa?",
+      "region": "Africa"
+    },
+    {
+      "question": "Which African country is the largest by land area?",
+      "region": "Africa"
+    },
+    {
+      "question": "What is the tallest mountain in Africa?",
+      "region": "Africa"
+    },
+    {
+      "question": "Which East Asian country is known for its advanced technology sector?",
+      "region": "Asia"
+    },
+    {
+      "question": "What is the traditional dress called in South Asia?",
+      "region": "Asia"
+    },
+    {
+      "question": "Which Central Asian country is known for its silk production?",
+      "region": "Asia"
+    },
+    {
+      "question": "What is the largest desert in Western Asia?",
+      "region": "Asia"
+    },
+    {
+      "question": "Which Southeast Asian country is famous for its floating markets?",
+      "region": "Asia"
+    },
+    {
+      "question": "Which European country is known for its tulip fields and windmills?",
+      "region": "Europe"
+    },
+    {
+      "question": "What is the capital of Italy in Southern Europe?",
+      "region": "Europe"
+    },
+    {
+      "question": "Which European country is famous for the Eiffel Tower?",
+      "region": "Europe"
+    },
+    {
+      "question": "Which country in Northern Europe has the longest coastline?",
+      "region": "Europe"
+    },
+    {
+      "question": "What are the main industries in Eastern Europe?",
+      "region": "Europe"
+    },
+    {
+      "question": "Which Caribbean island is famous for reggae music?",
+      "region": "North America"
+    },
+    {
+      "question": "What is the national dish of Canada?",
+      "region": "North America"
+    },
+    {
+      "question": "Which Central American country has the Panama Canal?",
+      "region": "North America"
+    }
+  ]
+}
